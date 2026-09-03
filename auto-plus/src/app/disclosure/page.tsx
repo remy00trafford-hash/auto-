@@ -1,0 +1,5 @@
+import Link from 'next/link'
+
+export default function Page(){
+  return <main><header className="header"><div className="nav"><Link href="/" className="brand">AUTO<span>+</span></Link><Link href="/products" className="nav-cta">Produits <span>→</span></Link></div></header><section className="section legal-page"><span className="eyebrow">TRANSPARENCE</span><h1>Une recommandation, pas une caisse.</h1><p>Auto+ est une vitrine éditoriale dédiée aux accessoires automobiles. Nous ne vendons pas directement les produits et nous n’encaissons pas les commandes.</p><p>Certains liens présents sur Auto+ sont des liens affiliés. Si vous effectuez un achat après avoir utilisé l’un de ces liens, Auto+ peut recevoir une commission, sans coût supplémentaire pour vous.</p><p>Les prix, devises, taxes éventuelles, frais de livraison, promotions, disponibilités et conditions applicables sont affichés par le marchand au moment de la consultation.</p><Link className="text-link" href="/">Retour à l’accueil <span>→</span></Link></section></main>
+}
