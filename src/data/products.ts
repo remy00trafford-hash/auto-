@@ -19,7 +19,7 @@ export const products: Product[] = [
     offerLabel: 'SÉLECTION',
     category: 'Supports téléphone',
     affiliatePath: '/go/support-telephone-gravite-ventilation',
-    image: 'https://static1.hurtel.com/hpeciai/321a4cf54325a3ffeb43b96a8e77ea0e/eng_pm_Baseus-Osculum-SUYL-XP01-gravity-car-holder-for-windshield-or-dashboard-black-37948_12.jpg',
+    image: 'https://www.wamia.tn/media/tmp/desc/w/u/wuw_z25_10.jpg',
     featured: true,
   },
   {
@@ -30,7 +30,7 @@ export const products: Product[] = [
     offerLabel: 'PRATIQUE',
     category: 'Énergie',
     affiliatePath: '/go/essager-chargeur-voiture-54w',
-    image: 'https://upload.jaknot.com/2025/03/images/products/488c0a/original/essager-charger-mobil-fast-charging-led-pd-qc-30-usb-type-c-54w-eccpq-kx01-p.jpeg',
+    image: 'https://electronix.ma/wp-content/uploads/2024/02/1707152548_1.jpg',
     featured: true,
   },
   {
@@ -41,7 +41,7 @@ export const products: Product[] = [
     offerLabel: 'PREMIUM',
     category: 'Supports téléphone',
     affiliatePath: '/go/joyroom-support-telephone-360',
-    image: 'https://jo-cell.com/cdn/shop/files/Joyroom-JR-ZS283-Mini-Car-Holder-for-Dashboard-70-110mm-Black-6941237173478-17012022-01-p.webp?v=1734435805',
+    image: 'https://www.joyroom.com/cdn/shop/files/b8421501ceee8ed8defa49d79fc692df_f9c5f4e2-039e-43ee-a1b5-cf29013f38c5.jpg?v=1708596251&width=1300',
     featured: true,
   },
 ]
