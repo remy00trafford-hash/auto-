@@ -18,7 +18,7 @@ export const products: Product[] = [
     name: 'Support téléphone voiture par gravité',
     shortDescription: 'Gardez le smartphone visible pendant les trajets.',
     description: 'Un support compact destiné à maintenir le smartphone à portée de vue dans l’habitacle.',
-    image: 'https://ae-pic-a1.aliexpress-media.com/kf/S6e08790aabba4469a66b50e9bd88ca64j.png_.avif',
+    image: 'https://www.cdiscount.com/pdt2/0/1/4/1/700x700/san1717835578014/rw/support-telephone-voiture-grille-d-aeration-porte.jpg',
     offerLabel: 'Sélection',
     category: 'Supports téléphone',
     affiliatePath: '/go/support-telephone-gravite-ventilation',
