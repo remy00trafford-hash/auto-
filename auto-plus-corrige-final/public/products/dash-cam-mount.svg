@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="t d">
+<title id="t">Support Dash Cam à ventouse</title><desc id="d">Illustration du produit Support Dash Cam à ventouse</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#111827"/><stop offset="1" stop-color="#312e81"/></linearGradient><linearGradient id="shine" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee"/></linearGradient></defs>
+<rect width="800" height="600" rx="36" fill="url(#bg)"/>
+<circle cx="680" cy="90" r="120" fill="#7c3aed" opacity=".18"/><circle cx="120" cy="520" r="160" fill="#06b6d4" opacity=".10"/>
+<rect x="325" y="130" width="150" height="105" rx="18" fill="#111827" stroke="#cbd5e1" stroke-width="7"/><circle cx="400" cy="183" r="28" fill="#020617" stroke="#22d3ee" stroke-width="7"/><path d="M400 235v90M400 325l-90 85M400 325l90 85" stroke="#94a3b8" stroke-width="26" stroke-linecap="round"/><ellipse cx="400" cy="445" rx="150" ry="32" fill="#020617" stroke="#64748b" stroke-width="9"/>
+<text x="48" y="550" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="22">Support Dash Cam à ventouse</text>
+</svg>

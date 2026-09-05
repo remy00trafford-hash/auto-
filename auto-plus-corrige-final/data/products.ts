@@ -1,0 +1,133 @@
+export type Product = {
+  id: string;
+  slug: string;
+  name: string;
+  shortDescription: string;
+  description: string;
+  image: string;
+  offerLabel: string;
+  category: string;
+  affiliatePath: string;
+  sourcePrice?: string;
+  featured: boolean;
+};
+
+export const products: Product[] = [
+  {
+    id: 'p1',
+    slug: 'support-telephone-gravite-ventilation',
+    name: 'Support téléphone voiture par gravité',
+    shortDescription: 'Maintenez votre smartphone visible et stable pendant les trajets.',
+    description: 'Un support compact à fixation sur grille d’aération, conçu pour garder le téléphone à portée de vue pendant la conduite et la navigation.',
+    image: '/products/phone-holder.svg',
+    offerLabel: 'SÉLECTION',
+    category: 'Supports téléphone',
+    affiliatePath: '/go/support-telephone-gravite-ventilation',
+    sourcePrice: '$2–5',
+    featured: true,
+  },
+  {
+    id: 'p2',
+    slug: 'essager-chargeur-voiture-54w',
+    name: 'Chargeur voiture Essager 54W USB / Type-C',
+    shortDescription: 'Rechargez vos appareils facilement pendant vos déplacements.',
+    description: 'Un chargeur voiture compact avec sorties USB et Type-C, pensé pour la recharge quotidienne à bord.',
+    image: '/products/charger.svg',
+    offerLabel: 'PRATIQUE',
+    category: 'Énergie',
+    affiliatePath: '/go/essager-chargeur-voiture-54w',
+    sourcePrice: '$5.17',
+    featured: true,
+  },
+  {
+    id: 'p3',
+    slug: 'joyroom-support-telephone-360',
+    name: 'Support téléphone voiture Joyroom 360°',
+    shortDescription: 'Ajustez l’angle du téléphone selon votre position.',
+    description: 'Un support orientable avec fixation ventouse, conçu pour régler facilement la position du smartphone dans l’habitacle.',
+    image: '/products/joyroom-holder.svg',
+    offerLabel: 'PREMIUM',
+    category: 'Supports téléphone',
+    affiliatePath: '/go/joyroom-support-telephone-360',
+    sourcePrice: '$6–10',
+    featured: true,
+  },
+  {
+    id: 'p4',
+    slug: 'support-telephone-universel-ventouse',
+    name: 'Support téléphone universel pour voiture',
+    shortDescription: 'Un support à ventouse avec bras long pour tableau de bord.',
+    description: 'Support universel à ventouse avec bras réglable, pensé pour placer le smartphone à une hauteur confortable et ajuster facilement son orientation.',
+    image: '/products/universal-phone-holder.svg',
+    offerLabel: 'NOUVEAU',
+    category: 'Supports téléphone',
+    affiliatePath: '/go/support-telephone-universel-ventouse',
+    sourcePrice: '$2–5',
+    featured: true,
+  },
+  {
+    id: 'p5',
+    slug: 'lampes-led-atmosphere-voiture',
+    name: 'Lampes LED d’ambiance pour voiture',
+    shortDescription: 'Ajoutez une ambiance RGB personnalisable à l’intérieur.',
+    description: 'Un kit d’éclairage intérieur RGB USB avec plusieurs modes et couleurs pour personnaliser l’ambiance de l’habitacle.',
+    image: '/products/led-light.svg',
+    offerLabel: 'NOUVEAU',
+    category: 'Éclairage',
+    affiliatePath: '/go/lampes-led-atmosphere-voiture',
+    sourcePrice: '$1–3',
+    featured: true,
+  },
+  {
+    id: 'p6',
+    slug: 'housse-volant-led',
+    name: 'Housse de volant avec éclairage LED',
+    shortDescription: 'Apportez confort et style au volant.',
+    description: 'Une housse de volant décorative avec éclairage LED, pensée pour améliorer le toucher du volant et personnaliser l’intérieur.',
+    image: '/products/steering-wheel-led.svg',
+    offerLabel: 'STYLE',
+    category: 'Confort',
+    affiliatePath: '/go/housse-volant-led',
+    sourcePrice: '$3–6',
+    featured: true,
+  },
+  {
+    id: 'p7',
+    slug: 'support-dash-cam-ventouse',
+    name: 'Support Dash Cam / caméra voiture',
+    shortDescription: 'Fixez une caméra avec une position facilement réglable.',
+    description: 'Un support à ventouse avec bras réglable destiné aux dash cams et petites caméras embarquées.',
+    image: '/products/dash-cam-mount.svg',
+    offerLabel: 'NOUVEAU',
+    category: 'Caméra',
+    affiliatePath: '/go/support-dash-cam-ventouse',
+    sourcePrice: '$2–4',
+    featured: false,
+  },
+  {
+    id: 'p8',
+    slug: 'organisateur-rangement-siege-auto',
+    name: 'Organisateur de rangement de siège auto',
+    shortDescription: 'Gardez les petits objets à leur place dans l’habitacle.',
+    description: 'Un rangement compact à installer entre ou près des sièges pour garder téléphone, portefeuille et petits accessoires facilement accessibles.',
+    image: '/products/seat-organizer.svg',
+    offerLabel: 'PRATIQUE',
+    category: 'Organisation',
+    affiliatePath: '/go/organisateur-rangement-siege-auto',
+    sourcePrice: '$2–4',
+    featured: false,
+  },
+  {
+    id: 'p9',
+    slug: 'kit-nettoyage-detailing-auto',
+    name: 'Kit nettoyage & detailing auto',
+    shortDescription: 'Les accessoires essentiels pour entretenir l’intérieur et les détails.',
+    description: 'Un ensemble d’accessoires de nettoyage comprenant brosses, microfibres et outils de detailing pour l’entretien courant du véhicule.',
+    image: '/products/cleaning-kit.svg',
+    offerLabel: 'NOUVEAU',
+    category: 'Nettoyage',
+    affiliatePath: '/go/kit-nettoyage-detailing-auto',
+    sourcePrice: '$4–8',
+    featured: false,
+  },
+];

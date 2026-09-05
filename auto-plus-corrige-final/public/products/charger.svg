@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="t d">
+<title id="t">Chargeur voiture Essager 54W</title><desc id="d">Illustration du produit Chargeur voiture Essager 54W</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#111827"/><stop offset="1" stop-color="#312e81"/></linearGradient><linearGradient id="shine" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee"/></linearGradient></defs>
+<rect width="800" height="600" rx="36" fill="url(#bg)"/>
+<circle cx="680" cy="90" r="120" fill="#7c3aed" opacity=".18"/><circle cx="120" cy="520" r="160" fill="#06b6d4" opacity=".10"/>
+<rect x="290" y="160" width="220" height="270" rx="45" fill="#0b1220" stroke="#64748b" stroke-width="8"/><rect x="325" y="205" width="150" height="65" rx="14" fill="#020617"/><rect x="350" y="220" width="42" height="25" rx="5" fill="#22d3ee"/><rect x="408" y="220" width="42" height="25" rx="5" fill="#a78bfa"/><path d="M400 430v75" stroke="#94a3b8" stroke-width="22" stroke-linecap="round"/><text x="345" y="330" fill="#e2e8f0" font-family="Arial" font-size="28">54W</text>
+<text x="48" y="550" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="22">Chargeur voiture Essager 54W</text>
+</svg>

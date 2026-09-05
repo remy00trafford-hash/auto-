@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="t d">
+<title id="t">Support téléphone universel à ventouse</title><desc id="d">Illustration du produit Support téléphone universel à ventouse</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#111827"/><stop offset="1" stop-color="#312e81"/></linearGradient><linearGradient id="shine" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee"/></linearGradient></defs>
+<rect width="800" height="600" rx="36" fill="url(#bg)"/>
+<circle cx="680" cy="90" r="120" fill="#7c3aed" opacity=".18"/><circle cx="120" cy="520" r="160" fill="#06b6d4" opacity=".10"/>
+<rect x="325" y="145" width="150" height="250" rx="24" fill="#0b1220" stroke="#cbd5e1" stroke-width="7"/><path d="M400 395v75M400 470c-100 0-150 45-150 55M400 470c100 0 150 45 150 55" fill="none" stroke="#94a3b8" stroke-width="24" stroke-linecap="round"/><ellipse cx="400" cy="530" rx="150" ry="28" fill="#020617" stroke="#64748b" stroke-width="8"/><circle cx="400" cy="270" r="30" fill="url(#shine)"/>
+<text x="48" y="550" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="22">Support téléphone universel à ventouse</text>
+</svg>

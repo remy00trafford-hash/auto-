@@ -1,0 +1,5 @@
+import Link from 'next/link';
+import { notFound } from 'next/navigation';
+import { products } from '../../../data/products';
+
+export default async function ProductPage({params}:{params:Promise<{slug:string}>}){const {slug}=await params;const p=products.find(x=>x.slug===slug);if(!p)notFound();return <main className="inner-page product-detail"><div className="back-row"><Link href="/products" className="back"><span>←</span> Retour aux produits</Link><Link href="/" className="back home-back">Accueil</Link></div><div className="detail-grid"><div className="detail-image"><img src={p.image} alt={p.name}/></div><div><div className="eyebrow">{p.offerLabel}</div><h1>{p.name}</h1><p className="detail-description">{p.description}</p><h2>À propos du produit</h2><ul><li>Conçu pour un usage automobile quotidien.</li><li>Format pratique et présentation claire.</li><li>Découvrez les caractéristiques complètes sur la page de l’offre.</li></ul><Link className="primary" href={`/go/${p.slug}`}>Voir l’offre <span>→</span></Link></div></div></main>}

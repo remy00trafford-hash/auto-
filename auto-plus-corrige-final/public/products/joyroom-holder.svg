@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="t d">
+<title id="t">Support téléphone Joyroom 360°</title><desc id="d">Illustration du produit Support téléphone Joyroom 360°</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#111827"/><stop offset="1" stop-color="#312e81"/></linearGradient><linearGradient id="shine" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee"/></linearGradient></defs>
+<rect width="800" height="600" rx="36" fill="url(#bg)"/>
+<circle cx="680" cy="90" r="120" fill="#7c3aed" opacity=".18"/><circle cx="120" cy="520" r="160" fill="#06b6d4" opacity=".10"/>
+<circle cx="400" cy="295" r="135" fill="#0b1220" stroke="#64748b" stroke-width="14"/><rect x="335" y="205" width="130" height="220" rx="24" fill="#111827" stroke="#cbd5e1" stroke-width="6"/><path d="M400 160v-70M400 430v55" stroke="#a78bfa" stroke-width="24" stroke-linecap="round"/><circle cx="400" cy="295" r="30" fill="url(#shine)"/>
+<text x="48" y="550" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="22">Support téléphone Joyroom 360°</text>
+</svg>
