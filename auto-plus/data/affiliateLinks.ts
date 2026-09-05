@@ -5,6 +5,7 @@ export const affiliateLinks: Record<string, string> = {
   'support-telephone-universel-long-bras': 'https://s.click.aliexpress.com/e/_c3JARhch',
   'led-ambiance-rgb-voiture': 'https://s.click.aliexpress.com/e/_c3esb3Jf',
   'housse-volant-seametal-38cm': 'https://s.click.aliexpress.com/e/_c3cweypJ',
+  'support-dash-cam-ventouse-360': 'https://s.click.aliexpress.com/e/_c3iAOcUN',
   'organisateur-siege-auto': 'https://s.click.aliexpress.com/e/_c32iCHW9',
   'kit-brosses-detailing-auto': 'https://s.click.aliexpress.com/e/_c3xjQNYp',
 };
