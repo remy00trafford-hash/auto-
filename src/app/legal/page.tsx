@@ -1,2 +1,0 @@
-import Link from 'next/link';
-export default function Page(){return <main className="inner-page simple-page"><Link href="/" className="back">← Accueil</Link><div className="eyebrow">AUTO+</div><h1>Informations légales</h1><p>Auto+ présente une sélection d’accessoires automobiles. Les informations commerciales, la disponibilité et les conditions applicables peuvent évoluer et doivent être vérifiées sur la page du produit avant toute décision.</p></main>}
