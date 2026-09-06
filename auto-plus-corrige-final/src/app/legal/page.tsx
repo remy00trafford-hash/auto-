@@ -1,0 +1,2 @@
+import Link from 'next/link'
+export default function Page(){return <main><section className="section legal-page"><Link href="/" className="back">← Accueil</Link><div className="eyebrow">AUTO+</div><h1>Informations légales</h1><p>Auto+ est une vitrine de découverte de produits automobiles. Les commandes et paiements sont effectués sur la plateforme externe accessible depuis les fiches produits.</p></section></main>}
