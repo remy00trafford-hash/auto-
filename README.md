@@ -24,7 +24,6 @@ AliExpress. Le compte affilié est en cours d'examen au 2 septembre 2026.
 - Aucun faux avis, aucune fausse note, aucune caractéristique ou promotion inventée.
 - Auto+ ne doit jamais se présenter comme AliExpress ou comme le vendeur direct.
 - Les liens affiliés passent par des routes internes `/go/...`.
-- Les mentions de transparence/affiliation doivent être visibles aux endroits pertinents.
 
 ## Stack
 
